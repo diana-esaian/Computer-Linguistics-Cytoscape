@@ -1,0 +1,327 @@
+source,target,weight
+Dick,Nicole,95
+Dick,Rosemary,66
+Nicole,Rosemary,38
+Dick,Franz,22
+Dick,first,21
+Rosemary,first,19
+Abe,Rosemary,16
+Rosemary,Rosemary,15
+Dick,Dick,15
+Dick,two,15
+Nicole,two,14
+Dick,Tommy,14
+Nicole,Nicole,12
+Dick,one,11
+Rosemary,two,10
+Collis,Dick,10
+Dick,Dohmler,10
+Rosemary,one,9
+Abe,Nicole,9
+Dick,Mary,9
+one,two,8
+Abe,Dick,8
+Abe,Peterson,8
+Dick,Zurich,8
+Franz,Nicole,8
+Nicole,Tommy,8
+McKisco,Rosemary,7
+Dick,american,7
+Nicole,first,7
+two,two,6
+Collis Clay,Dick,6
+Mary,Nicole,6
+Collis,Rosemary,6
+Abe,Abe,6
+Nicole,Zurich,6
+Baby,Dick,6
+Rosemary,half,5
+Rosemary,french,5
+Indian,Rosemary,5
+Rosemary,Speers,5
+Mary North,Rosemary,5
+Abe,McKisco,5
+Paris,Rosemary,5
+Mary,Rosemary,5
+Abe,first,5
+Nicole,three,5
+English,Nicole,5
+Gausse,Rosemary,4
+Nicole,second,4
+Dick,English,4
+Dick,half,4
+Rosemary,four,4
+first,four,4
+Cannes,Dick,4
+Dick,McKisco,4
+Rosemary,Tommy Barban,4
+Nicole,Tommy Barban,4
+Hollywood,Rosemary,4
+Tommy,two,4
+Norths,Rosemary,4
+four,two,4
+Nicole,half,4
+Dick,Norths,4
+Collis Clay,Rosemary,4
+Dick,french,4
+Dick,Gausse,4
+Dick,this morning,4
+Indian,first,4
+first,second,4
+Chicago,Warren,4
+Dick,three,4
+Dick,Nice,4
+Dick,next morning,4
+Dick,english,4
+Dick,last night,4
+Dick,a minute,4
+Abrams,McKisco,3
+Paris,french,3
+italian,two,3
+Rosemary,american,3
+Abe North,Nicole,3
+Campion,McKisco,3
+american,french,3
+Mary North,Nicole,3
+Abe,Mary North,3
+Dick,Divers,3
+Nicole,french,3
+Nicole,four,3
+Abe,two,3
+Baby,two,3
+Nicole,one,3
+Chicago,american,3
+Abe,Collis Clay,3
+fifty,first,3
+Americans,first,3
+Nicole,Paris,3
+french,one,3
+Abe,french,3
+Chicago,New York,3
+Hillis,Rosemary,3
+Dick,Paris,3
+Cannes,Nicole,3
+morning,yesterday,3
+America,Dick,3
+three,two,3
+Abe,Negro,3
+Abe,Jules Peterson,3
+first,two,3
+Dick,half an hour,3
+four,three,3
+Doctor Dohmler,Warren,3
+Nicole,Warren,3
+Doctor Dohmler,Nicole,3
+Baby Warren,Nicole,3
+Dick,canne,3
+London,two,3
+Dick,Lanier,3
+Nicotera,Rosemary,3
+Dick,italian,3
+Collis,english,3
+Dick,a few minute,3
+Dick,Francisco,3
+italian,one,2
+Cannes,Gausse,2
+Cannes,five mile,2
+Rosemary,twelve,2
+two,yesterday,2
+Americans,Americans,2
+Abrams,evening,2
+McKisco,evening,2
+half,two,2
+one,one,2
+Cannes,Nice,2
+McKiscos,two,2
+Nicole,summer,2
+Americans,Dick,2
+Americans,English,2
+Americans,Nicole,2
+Nicole,last week,2
+first,first,2
+Yale,last fall,2
+Abrams,McKiscos,2
+Campion,Dumphry,2
+first,the day,2
+Earl Brady,Rosemary,2
+Dick Diver,Rosemary,2
+France,american,2
+Abrams,Campion,2
+Abe North,Paris,2
+1,french,2
+Brady,Dick,2
+first,one,2
+Abe North,Rosemary,2
+Abe North,Tommy Barban,2
+Dick Diver,Earl Brady,2
+Mediterranean,two,2
+Barban,McKisco,2
+Dick,McKiscos,2
+Monday,Nicole,2
+Abrams,Violet McKisco,2
+one,twenty,2
+Paris,twelve,2
+Nicole,six,2
+Nicole,Norths,2
+Rosemary,six,2
+french,two,2
+Dick,Hollywood,2
+american,american,2
+Abe,a dozen,2
+Mary North,one,2
+Roi George,Rosemary,2
+Abe,Mary,2
+European,american,2
+american,two minute,2
+american,the Rue Guynemer,2
+american,the Luxembourg Gardens,2
+Rosemary,two minute,2
+Rosemary,the Luxembourg Gardens,2
+Collis Clay,Norths,2
+New Haven,Rosemary,2
+New Haven,New York,2
+Rosemary,day,2
+Dick,day,2
+Collis,Norths,2
+Frankenstein,Rosemary,2
+Rosemary,last night,2
+Abe,englishman,2
+Abe,Horsa,2
+Abe,scandinavian,2
+Abe,Russia,2
+Dick,fifty,2
+Abe,this morning,2
+Nicole,year,2
+Dick,year,2
+Abe,Paris,2
+a dozen,one,2
+Abe,one,2
+half,one,2
+Mary North,french,2
+Dick,month,2
+Dick,the day,2
+Rosemary,about two hour,2
+Bill Hillis,Rosemary,2
+Buffalo,Zurich,2
+Zurich,three,2
+Rosemary,three,2
+Pierce,three year,2
+Pierce,lithuanian,2
+Paris,last night,2
+Dick,Europe,2
+Abe,Paul,2
+Abe,Dane,2
+Quarterly,two,2
+one,three,2
+Dick,twenty-four,2
+Dick,yesterday,2
+Abe,several month,2
+Abe,Stockholm,2
+Abe,an hour,2
+Abe,negro,2
+Peterson,negro,2
+Abe,two hundred franc,2
+Arbuckle,first,2
+Abe,Indian,2
+Indian,second,2
+Arbuckle,Indian,2
+Rosemary,second,2
+Arbuckle,Rosemary,2
+Americans,Paris,2
+Zurich,first,2
+Elkins,Embassy,2
+Embassy,second,2
+second,two,2
+Embassy,two,2
+Galena,Grant,2
+Dohmler,Zurichsee,2
+first,ten year,2
+America,first,2
+Franz,first,2
+French,german,2
+Chicago,one,2
+french,german,2
+german,italian,2
+Doctor Dohmler,american,2
+Chicago,Doctor Dohmler,2
+Lausanne,Warren,2
+Doctor Dohmler,Franz,2
+Chicago,those day,2
+Armour, Palmer, Field, Crane,Chicago,2
+Chicago,McCormick,2
+Dohmler,Warren,2
+Franz,Warren,2
+Franz,Lausanne,2
+Lausanne,Nicole,2
+Warren,second,2
+America,Warren,2
+Warren,first,2
+Nicole,a week later,2
+Franz,a week later,2
+Franz,half,2
+half,half,2
+german,two,2
+Dick,Lausanne,2
+Dick,second,2
+Marmora,Nicole,2
+Dick,warren,2
+Baby Warren,Dick,2
+Nicole,University,2
+Nicole,warren,2
+Topsy,second,2
+dozen,two,2
+Riviera,summer,2
+Dick,Mrs Diver,2
+Doctor Hoyt,Rosemary,2
+Rosemary,U.S.A. Cross,2
+New Haven,year,2
+Dick,Riviera,2
+Paris,first,2
+Nicole,Topsy,2
+Nice,canne,2
+Nicole,canne,2
+Nice,Nicole,2
+Dick,Syndicat,2
+Baby,Nicole,2
+London,one,2
+Dick,Englishman,2
+Dick,Zugersee,2
+America,winter,2
+Baby,Franz,2
+Bleuler,Forel,2
+Dick,Eglantine,2
+Paris,american,2
+Dick,Munich,2
+American,half,2
+Americans,american,2
+Americans,Europeans,2
+Paris,Tommy,2
+Dick,Virginia,2
+Dick,several month,2
+Buffalo,Dick,2
+Dick,Rome,2
+Dick,Nicotera,2
+Castelli,Rosemary,2
+Cesari,Rosemary,2
+1914,Michael Arlen,2
+Bonbonieri,Dick,2
+Consulate,italian,2
+american,italian,2
+Consul,nine,2
+american,two,2
+Dick,Senor Pardo,2
+-he,Dick,2
+Divers,one,2
+Nicole,a minute,2
+Nicole,augustine,2
+Europe,London,2
+Dick,the Cafe des Allies,2
+Dick,Lady Caroline,2
+Dick,Malay,2
+Tommy,three,2
+Dick,five year ago,2
+Rosemary,five year ago,2
+Mexican,first,2
+America,Nicole,2
+Dick,M. Gausse,2
+Geneva,New York,2
